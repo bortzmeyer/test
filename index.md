@@ -71,24 +71,20 @@ in_menu: true
 <section id="candidature">
   <div>
     <article>
-      <div>
-        <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
-      </div>
 
       <div>
-        <h2>Nom Prénom</h2>
+        <h2>Test Testeur</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
         <ul>
           <li>
-            Point à retenir sur notre candidat·e numéro 1
+           Il teste les sites !
           </li>
           <li>
-            Point à retenir sur notre candidat·e numéro 2
+            Il crée des tickets
           </li>
           <li>
-            Point à retenir sur notre candidat·e numéro 3
+            Il a lu le programme
           </li>
         </ul>
       
@@ -100,22 +96,19 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Nom Prénom suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="Une Femme suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
       </div>
 
       <div>
-        <h2>Nom Prénom - suppléante</h2>
+        <h2>Une Femme - suppléante</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
         <ul>
           <li>
-            Point à retenir sur notre suppléant·e 1
+            C'est une femme
           </li>
           <li>
-            Point à retenir sur notre suppléant·e 2
-          </li>
-          <li>
-            Point à retenir sur notre suppléant·e 3
+           Elle est suppléante
           </li>
         </ul>
 
