@@ -1,21 +1,21 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
-
 <header>
   <div>
     <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Test Testeur !</h1>
   </div>
 </header>
 
 <section class="entete">
   <div>
-    <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Test Testeur candidat pour le Front Populaire le 30 juin" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Cat_playing_with_a_lizard.jpg">
 
     <div class="buttons">
       <div>
@@ -201,4 +201,4 @@ order: 0
 
 <section class="footer">
     Candidature de la X circonscription de Y.
-</section>
+</section> 
